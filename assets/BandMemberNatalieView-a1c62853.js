@@ -1,1 +1,0 @@
-import{C as e}from"./CView-4d625d96.js";import{d as a,a as t,w as o,o as s,b as n}from"./main-af020db2.js";const r=n("h1",null,"Natalie",-1),p=a({__name:"BandMemberNatalieView",setup(i){return(_,c)=>(s(),t(e,null,{title:o(()=>[r]),_:1}))}});export{p as default};

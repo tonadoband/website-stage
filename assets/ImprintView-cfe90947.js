@@ -1,0 +1,1 @@
+import{C as e}from"./CView-11561f69.js";import{d as t,a as o,w as s,o as a,b as r}from"./main-a77cae2b.js";const n=r("h1",null,"Impressum",-1),l=t({__name:"ImprintView",setup(_){return(c,i)=>(a(),o(e,null,{title:s(()=>[n]),_:1}))}});export{l as default};
