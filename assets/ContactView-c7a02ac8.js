@@ -1,1 +1,0 @@
-import{C as t}from"./CView-60649b64.js";import{d as e,c as o,w as a,o as n,a as s}from"./index-01af4cb2.js";const c=s("h1",null,"Kontakt",-1),m=e({__name:"ContactView",setup(r){return(_,i)=>(n(),o(t,null,{title:a(()=>[c]),_:1}))}});export{m as default};

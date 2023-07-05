@@ -1,1 +1,0 @@
-import{C as e}from"./CView-60649b64.js";import{d as t,c as a,w as o,o as n,a as s}from"./index-01af4cb2.js";const r=s("h1",null,"Band",-1),d=t({__name:"BandView",setup(c){return(_,i)=>(n(),a(e,null,{title:o(()=>[r]),_:1}))}});export{d as default};
