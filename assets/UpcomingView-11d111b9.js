@@ -1,1 +1,0 @@
-import{C as e}from"./CView-11561f69.js";import{d as t,a as o,w as a,o as n,b as s}from"./main-a77cae2b.js";const r=s("h1",null,"Termine",-1),l=t({__name:"UpcomingView",setup(c){return(i,_)=>(n(),o(e,null,{title:a(()=>[r]),_:1}))}});export{l as default};

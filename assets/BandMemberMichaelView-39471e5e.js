@@ -1,0 +1,1 @@
+import{C as e}from"./CView-21112594.js";import{d as a,a as t,w as o,o as s,b as n}from"./main-0964b836.js";const r=n("h1",null,"Michael",-1),p=a({__name:"BandMemberMichaelView",setup(c){return(i,_)=>(s(),t(e,null,{title:o(()=>[r]),_:1}))}});export{p as default};
