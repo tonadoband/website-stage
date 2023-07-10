@@ -1,0 +1,1 @@
+import{d as a,o as e,a as c,n,_}from"./main-f721625f.js";const o=["alt","src"],r=a({__name:"CImg",props:{alt:String,src:String,class:String},setup(t){const s=t;return(l,p)=>(e(),c("img",{alt:s.alt,src:s.src,class:n(s.class)},null,10,o))}});const i=_(r,[["__scopeId","data-v-1f5277a0"]]);export{i as C};
