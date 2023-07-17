@@ -1,0 +1,1 @@
+import{d as a,o as c,c as e,n,_}from"./main-c95878f4.js";const o=["alt","src"],r=a({__name:"CImg",props:{alt:String,src:String,class:String},setup(t){const s=t;return(l,p)=>(c(),e("img",{alt:s.alt,src:s.src,class:n(s.class)},null,10,o))}});const i=_(r,[["__scopeId","data-v-fc8fdd44"]]),m="/assets/band_1-0e48643b.jpg";export{i as C,m as i};
