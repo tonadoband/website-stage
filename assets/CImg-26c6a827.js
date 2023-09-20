@@ -1,1 +1,0 @@
-import{d as c,r as t,o as n,c as o,n as r,_}from"./main-ce146d80.js";const l=c({__name:"CImg",props:{alt:String,src:String,class:String},setup(e){const s=e;return(p,m)=>{const a=t("Image");return n(),o(a,{src:s.src,alt:s.alt,class:r(s.class),preview:""},null,8,["src","alt","class"])}}});const i=_(l,[["__scopeId","data-v-c3e3a0d7"]]);export{i as C};
