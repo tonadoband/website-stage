@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-Sitemap: https://dev.tonado.at/sitemap.xml
+Sitemap: https://www.tonado.at/sitemap.xml
