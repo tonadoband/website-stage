@@ -1,1 +1,0 @@
-import{l as o,o as t,i as r,m as s}from"./main-e14741d1.js";const c={},n={class:"m-2 sm:m-4"};function a(e,l){return t(),r("div",n,[s(e.$slots,"title"),s(e.$slots,"default")])}const m=o(c,[["render",a]]);export{m as C};
